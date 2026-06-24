@@ -1,6 +1,6 @@
 # Exercícios de fixação  🚀
 
-Este repositório foi criado para armazenar todos os meus códigos, exercícios de fixação e projetos práticos desenvolvidos durante a minha jornada de estudos pelas linguagem de programação.
+Este repositório foi criado para armazenar todos os meus códigos, exercícios de fixação e projetos práticos desenvolvidos fora dos horários de estudo, apenas para absorver melhor os contúdos estudados.
 
 ## 🎯 Objetivo
 Armazenar e mostrar meu empenho nos estudos e desenvolvimento dos meus conhecimentos adqueridos em cursos e estudos a respeito das línguagens.
