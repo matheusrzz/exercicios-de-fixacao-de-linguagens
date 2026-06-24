@@ -8,7 +8,7 @@ Armazenar e mostrar meu empenho nos estudos e desenvolvimento dos meus conhecime
 ## 🗂️ Estrutura do Repositório
 O projeto está organizado em pastas que seguem o cronograma de seções de aprendizado:
 
-* [ ] `secao-02-cpp/` — Exercícios voltados a linguagem C++.
+* [ ] `secao-01-cpp/` — Exercícios voltados a linguagem C++.
 * [ ] `secao-02-python/` — Exercícios voltados a linguagem Python.
 * [ ] `secao-03-c-sharp/` — Exercícios voltados a linguagem C#.
 * [ ] `secao-04-java/` — Exercícios voltados a linguagem JavaScript.
