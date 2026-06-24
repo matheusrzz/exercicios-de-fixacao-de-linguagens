@@ -15,4 +15,4 @@ O projeto está organizado em pastas que seguem o cronograma de seções do curs
 
 ## 🛠️ Ferramentas
 
-* **Ambiente de Desenvolvimento:** VS Code / IDE / Dev C++
+* **Ambiente de Desenvolvimento:** VS Code / IDE / Principalmente -> Dev C++
