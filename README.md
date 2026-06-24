@@ -6,7 +6,7 @@ Este repositório foi criado para armazenar todos os meus códigos, exercícios 
 Armazenar e mostrar meu empenho nos estudos e desenvolvimento dos meus conhecimentos adqueridos em cursos e estudos a respeito das línguagens.
 
 ## 🗂️ Estrutura do Repositório
-O projeto está organizado em pastas que seguem o cronograma de seções do curso:
+O projeto está organizado em pastas que seguem o cronograma de seções de aprendizado:
 
 * [ ] `secao-02-cpp/` — Exercícios voltados a linguagem C++.
 * [ ] `secao-02-python/` — Exercícios voltados a linguagem Python.
