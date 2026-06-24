@@ -1,4 +1,4 @@
-# Aprendizado em C++ 🚀
+# Exercícios de fixação  🚀
 
 Este repositório foi criado para armazenar todos os meus códigos, exercícios de fixação e projetos práticos desenvolvidos durante a minha jornada de estudos pelas linguagem de programação.
 
