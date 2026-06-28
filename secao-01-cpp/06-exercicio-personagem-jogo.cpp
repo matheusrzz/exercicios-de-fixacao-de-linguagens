@@ -14,7 +14,7 @@ int main() {
 	
 	do {
 		
-	cout << "Vida atual: " << vidaPersonagem << endl;
+	cout << "\nVida atual: " << vidaPersonagem << endl;
 	cout << "1 - Tomar Poção (+20 HP)" << endl;	
 	cout << "2 - Levar Ataque de monstro (-30 HP)" << endl;	
 	cout << "0 - Sair do Jogo" << endl;
@@ -25,6 +25,16 @@ int main() {
 		vidaPersonagem = vidaPersonagem + 20;
 		cout << "\nVocê curou seu personagem e agora sua vida é de "<< vidaPersonagem << endl;
 		
+		if (vidaPersonagem >= 400 ){
+			
+			cout << "==============================================================================" << endl;
+			cout << "\nVocê atingiu a vida máxima, e voltou a 100 HP para melhorar o desafio !! XD\n " << endl;
+			vidaPersonagem = 100;
+			cout << "==============================================================================" << endl;
+			system("pause");
+			
+		}
+		
 	}
 	else if (opcaoMenu == 2) {
 		
@@ -33,10 +43,18 @@ int main() {
 		
 		if (vidaPersonagem <= 0) {
 			
-			cout << "\nVocê morreu mané !!!" << endl;
+			cout << "==============================================================================" << endl;
+			cout << "Você morreu mané, tente novamente !!!" << endl;
+			cout << "==============================================================================" << endl;
 			return 1;
-			
 		}
+	}
+	else if (opcaoMenu > 2 || opcaoMenu < 0){
+		
+		cout << "\nOpção Inválida, tente novamente !\n" << endl;
+		system("pause");
+		
+		
 	}
 	
 	
